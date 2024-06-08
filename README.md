@@ -1,3 +1,8 @@
+<h1>👨🏻‍💻 Welcome to my profile! 
+ErickLopezQA </h1> 
+
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
